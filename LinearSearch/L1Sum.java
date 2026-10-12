@@ -1,3 +1,5 @@
+package LinearSearch;
+
 public class L1Sum {
    
     public static void main(String[] args) {
