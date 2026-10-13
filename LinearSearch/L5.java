@@ -8,6 +8,7 @@ public class L5 {
 
         for (int i = 0; i < arr.length; i++) 
         {
+    //copies elements from the end of the original array to the beginning of the new array
             reverse[i] = arr[arr.length-1 - i];
         }
 
